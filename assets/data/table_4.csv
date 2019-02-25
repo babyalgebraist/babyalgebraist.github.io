@@ -1,5 +1,6 @@
-Course,Description,Attempted,Grade,Notation,GPA,Class Avg,Class Size,Program Credits Earned,Other,,
-GEOL,208,AA,"THE EARTH, MOON AND PLANETS",3.00,A-,,3.70,3.00,186,3.0,
-MATH,252,A,LINEAR ALGEBRA II,3.00,D,,,2.20,53,3.0,INIT
-MATH,365,A,ANALYSIS II,3.00,B,,3.00,2.38,49,3.0,
-STAT,249,BB,PROBABILITY I,3.00,B+,,3.30,2.59,32,3.0,
+Course,Course.1,Course.2,Description,Attempted,Grade,Notation,GPA,Class Avg,Class Size,Program Credits Earned,Other
+MATH,354,A,NUMERICAL ANALYSIS,3.0,B+,,3.3,3.4,51.0,3.0,
+MATH,370,A,ORDINARY DIFFERENTIAL EQUAT.,3.0,B-,,2.7,3.01,44.0,3.0,
+MATH,464,B,REAL ANALYSIS,3.0,B+,,3.3,2.65,21.0,3.0,
+MATH,494,A,TOPICS/PURE & APPLIED MATH,3.0,B-,,2.7,,,3.0,
+Course Topic:,Course Topic:,Course Topic:,ALGEBRAIC NUMBER THEORY,,,,,,,,

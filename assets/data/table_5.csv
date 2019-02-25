@@ -1,6 +1,5 @@
-Course,Description,Attempted,Grade,Notation,GPA,Class Avg,Class Size,Program Credits Earned,Other,,
-MATH,366,AA,COMPLEX ANALYSIS I,3.00,A-,,3.70,2.45,17,3.0,
-MATH,369,A,ABSTRACT ALGEBRA I,3.00,B-,,2.70,2.52,18,3.0,
-MATH,392,A,ELEMENTARY NUMBER THEORY,3.00,A,,4.00,2.35,13,3.0,
-MATH,475,A,"DISCRETE DYN.SYS,CHAOS&FRACT",3.00,A-,,3.70,,,3.0,
-Course Topic:,DISCRETE DYNAMICAL SYSTEMS,,,,,,,,,,
+Course,Course.1,Course.2,Description,Attempted,Grade,Notation,GPA,Class Avg,Class Size,Program Credits Earned,Other
+INTU,MJKY,IU,HONOURS ALGEBRA 4,3.0,C+,,2.3,,,3.0,
+Course Topic:,Course Topic:,Course Topic:,MATH 457 MCGILL,,,,,,,,
+MATH,494,B,TOPICS/PURE & APPLIED MATH,3.0,A+,,4.3,,,3.0,
+Course Topic:,Course Topic:,Course Topic:,RANDOM MATRICES,,,,,,,,
