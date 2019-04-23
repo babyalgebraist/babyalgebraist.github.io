@@ -119,7 +119,7 @@ On My Reading List
         BA Specialization Pure and Applied Mathematics, Concordia University, 2018
       </h4>
 
-      <table border="0>
+      <table border="0">
         <thead>
           <tr style="text-align: center;">
             <th>Course Number</th>
