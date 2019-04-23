@@ -222,7 +222,7 @@ On My Reading List
         </tbody>
       </table>
         <p>NB: This table was constructed using the script located <a href='
-https://github.com/babyalgebraist/babyalgebraist.github.io/blob/master/assets/scripts/course_hist_nb.py'>here</a>.
+https://github.com/babyalgebraist/babyalgebraist.github.io/blob/master/assets/scripts/course_hist_nb.py'>here</a>.</p>
 
           <h3>
             BA History and Philosophy of Science, McGill University, 2001
