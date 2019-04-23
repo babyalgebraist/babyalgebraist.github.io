@@ -5,7 +5,20 @@ layout: default
 <!-- Content Goes Here -->
 
 <body>
-    <div>
+  <script>
+  function showHide() {
+    var x = document.getElementById("DIVisibility");
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  }
+  </script>
+
+
+  <button onclick="showHide()">show/hide</button>
+    <div id='DIVisibility'>
         <h1>Activities and Accomplishments: Past and Present</h1>
     </div>
     <div>
