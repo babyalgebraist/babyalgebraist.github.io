@@ -119,7 +119,7 @@ On My Reading List
         BA Specialization Pure and Applied Mathematics, Concordia University, 2018
       </h4>
 
-      <table border="0" class="dataframe">
+      <table border="0>
         <thead>
           <tr style="text-align: center;">
             <th>Course Number</th>
@@ -236,22 +236,22 @@ https://github.com/babyalgebraist/babyalgebraist.github.io/blob/master/assets/sc
 
 <details>
 <summary>
-Accomplishments
+  Accomplishments
 </summary>
 <!-- start 'Accomplishmets' List -->
-<div>
-  <ul>
-    <li>
-      <h3>
-        Trans-Atlantic Crossing, 2014
-      </h3>
-    </li>
+  <div>
     <ul>
-      <li>GPS Track Link to Come
+      <li>
+        <h3>
+          Trans-Atlantic Crossing, 2014
+        </h3>
       </li>
+      <ul>
+        <li>GPS Track Link to Come
+        </li>
+      </ul>
     </ul>
-  </ul>
-  </div>
+    </div>
 </details>
 
 <!-- end 'Accomplishmets' List -->
