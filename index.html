@@ -1,289 +1,316 @@
----
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Home</title>
+</head>
+
+<!-- ---
 layout: default
----
+--- -->
+
 
 <!-- Content Goes Here -->
 
 <body>
-  <script>
-  function showHide() {
-    var x = document.getElementById("DIVisibility");
-    if (x.style.display === "none") {
-      x.style.display = "block";
-    } else {
-      x.style.display = "none";
-    }
-  }
-  </script>
 
 
-  <button onclick="showHide()">show/hide</button>
-    <div id='DIVisibility'>
-        <h1>Activities and Accomplishments: Past and Present</h1>
-    </div>
-    <div>
-        <h2>About</h2>
-        <p>This has been one hell of a journey. Below you will find a synopsis of my activities at the moment (See:
-            Courses and Reading) and over the last few years (Concordia).
-            <p>At present, it is sparse as my foray into this world of Computer Science, Data Analysis, and Algorithms
-                is as young and frisky as a kitten. While learning to make my living, it's a challenge to align the
-                kinds of ideas I can come up with to present with my actual skill. So...
-                <p>As time progresses, and I become more comfortable, I will update this space with personal projects.
-                    Working in conjunction with a research librarian, Matthew Fells, the goal is to present original
-                    analysis along side discussions on topics such as:
-                    <ul>
-                        <li>Economics</li>
-                        <li>Earth and Planetary Sciences, especially Climate Science</li>
-                        <li>Rebuttals of Claims</li>
-                        <li>Discussions on Reproducibility in the Sciences</li>
-                        <li>and more...</li>
-                    </ul>
-                    <p>I invite you to keep an eye out here for details. In the meanwhile, have a look below at my
-                        current activities, and past accomplishments. Peace! I'm out... for now!
-    </div>
 
-    <div>
-        <!-- 'Current' List -->
+
+<h1>Activities and Accomplishments: Past and Present</h1>
+
+<br>
+
+
+<button onclick="ReverseDisplay('divAbout')">show/hide About</button>
+<div id='divAbout' class='contentBlock'>
+    <h2>About</h2>
+    <p>This has been one hell of a journey. Below you will find a synopsis of my activities at the moment (See:
+      Courses and Reading) and over the last few years (Concordia).
+      <p>At present, it is sparse as my foray into this world of Computer Science, Data Analysis, and Algorithms
+        is as young and frisky as a kitten. While learning to make my living, it's a challenge to align the
+        kinds of ideas I can come up with to present with my actual skill. So...
+        <p>As time progresses, and I become more comfortable, I will update this space with personal projects.
+          Working in conjunction with a research librarian, Matthew Fells, the goal is to present original
+          analysis along side discussions on topics such as:
+          <ul>
+            <li>Economics</li>
+            <li>Earth and Planetary Sciences, especially Climate Science</li>
+            <li>Rebuttals of Claims</li>
+            <li>Discussions on Reproducibility in the Sciences</li>
+            <li>and more...</li>
+          </ul>
+          <p>I invite you to keep an eye out here for details. In the meanwhile, have a look below at my
+            current activities, and past accomplishments. Peace! I'm out... for now!
+</div>
+
+<br>
+<button onclick="ReverseDisplay('divActivities')">show/hide About</button>
+<div id='divActivities'class='contentBlock'>
+    <!-- 'Current' List -->
+    <ul>
+      <li>
+        <h2>
+          Activities
+        </h2>
+        <p> Never one to be idle long, here are some of the things I am doing to keep busy and 'skill up':
+      </li>
+      <ul>
+        <h3>
+          Skilling Up
+        </h3>
         <ul>
+          <h4>Online Courses</h4>
+          <ul>
             <li>
-                <h2>
-                    Activities
-                </h2>
-                <p> Never one to be idle long, here are some of the things I am doing to keep busy and 'skill up':
+              [IP] <a href='https://www.coursera.org/specializations/data-structures-algorithms'>UCSD -
+                Data Structures and Algorithms Specialization @Coursera</a>
             </li>
+
+            <li>
+              [IP] <a href='https://www.edx.org/course/cs50s-introduction-to-computer-science'>Harvard -
+                CS50 - Introduction to Computer Science @edX</a>
+            </li>
+            <li>[IP] <a href='https://www.datacamp.com/tracks/data-scientist-with-python'>Python for Data
+                Science Track @DataCamp</a>
+            </li>
+            <li>[CP] Machine Learning, Andrew Ng, @Coursera (Certificate)
+            </li>
+            <li>
+              [OH] <a href='https://berkeley-stat159-f17.github.io/stat159-f17/'>Reproducible
+                Computational Science: Berkeley, Fernando Perez</a>
+            </li>
+            <li>
+              [OH] <a href='https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations'>Introduction
+                to DevOps, Transforming and Improving Operations</a>
+            </li>
+            <li>
+              <h5>Key: OH = 'on hold'; IP = 'in progress'; CP = 'complete'</h5>
+            </li>
+          </ul>
+        </ul>
+</div>
+
+<br>
+<button onclick="ReverseDisplay('divLangs')">show/hide About</button>
+<div id='divLangs' class='contentBlock'>
+    <ul>
+        <h4>Languages and Frameworks: Currently Learning</h4>
+        <ul>
+            <li>Python: Learning since December 2018 - 4/10</li>
             <ul>
-                <h3>
-                    Skilling Up
-                </h3>
-                <ul>
-                    <h4>Online Courses</h4>
-                    <ul>
-                        <li>
-                            [IP] <a href='https://www.coursera.org/specializations/data-structures-algorithms'>UCSD -
-                                Data Structures and Algorithms Specialization @Coursera</a>
-                        </li>
+            <li>pandas, matplotlib.pyplot, sk-learn, statsmodels, numpy, visulaization</li>
 
-                        <li>
-                            [IP] <a href='https://www.edx.org/course/cs50s-introduction-to-computer-science'>Harvard -
-                                CS50 - Introduction to Computer Science @edX</a>
-                        </li>
-                        <li>[IP] <a href='https://www.datacamp.com/tracks/data-scientist-with-python'>Python for Data
-                                Science Track @DataCamp</a>
-                        </li>
-                        <li>[CP] Machine Learning, Andrew Ng, @Coursera (Certificate)
-                        </li>
-                        <li>
-                            [OH] <a href='https://berkeley-stat159-f17.github.io/stat159-f17/'>Reproducible
-                                Computational Science: Berkeley, Fernando Perez</a>
-                        </li>
-                        <li>
-                            [OH] <a
-                                href='https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations'>Introduction
-                                to DevOps, Transforming and Improving Operations</a>
-                        </li>
-                        <li>
-                            <h5>Key: OH = 'on hold'; IP = 'in progress'; CP = 'complete'</h5>
-                        </li>
-                    </ul>
-                </ul>
-
-                <div>
-                    <ul>
-                        <h4>Languages and Frameworks: Currently Learning</h4>
-                        <ul>
-                            <li>Python: Learning since December 2018 - 4/10</li>
-                            <ul>
-                                <li>pandas, matplotlib.pyplot, sk-learn, statsmodels, numpy, visulaization</li>
-
-                            </ul>
-                            <li>@CS50 - C, C++, Java, JavaScript, HTML, CSS - 1/10</li>
-
-                            <li>Octave/MATLAB: Machine Learning @Coursera - 5/10</li>
-
-                        </ul>
-                    </ul>
             </ul>
-    </div>
+            <li>@CS50 - C, C++, Java, JavaScript, HTML, CSS - 1/10</li>
 
-    <div>
-        <!-- start 'Active Reading List' -->
-        <ul>
-            <h2>
-                On My Reading List
-            </h2>
-            <ol type='1'>
-                <li>W.F. Filho, Computer Science Distilled, 2017.</li>
-                <li>J.V. Guttag, J.V. Guttag, Introduction to Computation and Programming Using Python, 2013.</li>
-                <li>G. James, D. Witten, D. Witten, T. Hastie, R. Tibshirani, An Introduction to Statistical Learning,
-                    2015.</li>
-                <li>Z.A. Shaw, LEARN PYTHON 3 THE HARD WAY, 2017.</li>
-                <li>D.D. Wackerly, W. Mendenhall III, R.L. Shaeffer, Mathematical Statistics with Applications, 2017.
-                </li>
-                <li>Numerical Analysis, (2010) 1–895.</li>
-                <li>D.A. Freedman, Statistical Models, 2009.</li>
-                <li>A.B. Downey, Think Bayes, 2013.</li>
-                <li>A.B. Downey, Think Python, 2E, (2015) 1–291.</li>
-                <li>A.B. Downey, Think Stats, 2014.</li>
-                <li>T. Hastie, R. Tibshirani, J. Friedman, The Elements of Statistical Learning, 2013. </li>
-                <li>Information Theory, Inference, and Learning Algorithms, (2003) 1–640.</li>
+            <li>Octave/MATLAB: Machine Learning @Coursera - 5/10</li>
+
         </ul>
-        </ol>
-        <!-- end 'Active Reading List' -->
         </ul>
-    </div>
-    <!-- end 'Current' List -->
+    </ul>
+</div>
+
+<br>
+<button onclick="ReverseDisplay('divRead')">show/hide About</button>
+<div id='divRead' class='contentBlock'>
+    <!-- start 'Active Reading List' -->
+    <ul>
+      <h2>
+        On My Reading List
+      </h2>
+      <ol type='1'>
+        <li>W.F. Filho, Computer Science Distilled, 2017.</li>
+        <li>J.V. Guttag, J.V. Guttag, Introduction to Computation and Programming Using Python, 2013.</li>
+        <li>G. James, D. Witten, D. Witten, T. Hastie, R. Tibshirani, An Introduction to Statistical Learning,
+          2015.</li>
+        <li>Z.A. Shaw, LEARN PYTHON 3 THE HARD WAY, 2017.</li>
+        <li>D.D. Wackerly, W. Mendenhall III, R.L. Shaeffer, Mathematical Statistics with Applications, 2017.
+        </li>
+        <li>Numerical Analysis, (2010) 1–895.</li>
+        <li>D.A. Freedman, Statistical Models, 2009.</li>
+        <li>A.B. Downey, Think Bayes, 2013.</li>
+        <li>A.B. Downey, Think Python, 2E, (2015) 1–291.</li>
+        <li>A.B. Downey, Think Stats, 2014.</li>
+        <li>T. Hastie, R. Tibshirani, J. Friedman, The Elements of Statistical Learning, 2013. </li>
+        <li>Information Theory, Inference, and Learning Algorithms, (2003) 1–640.</li>
+    </ul>
+    </ol>
+    <!-- end 'Active Reading List' -->
+    </ul>
+</div>
+  <!-- end 'Current' List -->
 
 
-    <!-- 'Credentials' List -->
-    <div>
+  <!-- 'Credentials' List -->
+<br>
+<button onclick="ReverseDisplay('divCredentials')"> <h3>+</h3></button>
+<div id='divCredentials' class='contentBlock'>
+    <ul>
+      <h2>
+        Credentials
+      </h2>
+      <ul>
+        <h4>
+          BA Specialization Pure and Applied Mathematics, Concordia University, 2018
+        </h4>
         <ul>
-            <h2>
-                Credentials
-            </h2>
-            <ul>
-                <h4>
-                    BA Specialization Pure and Applied Mathematics, Concordia University, 2018
-                </h4>
-                <ul>
-                    <table border="0" class="dataframe">
-                        <thead>
-                            <tr style="text-align: center;">
-                                <th>Course Number</th>
-                                <th>Description</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>FRAN 305</td>
-                                <td>COMMUNICATION ORALE</td>
-                            </tr>
-                            <tr>
-                                <td>GEOL 210</td>
-                                <td>INTRODUCTION TO THE EARTH</td>
-                            </tr>
-                            <tr>
-                                <td>MAST 217</td>
-                                <td>INTRO/MATHEMATICAL THINKING</td>
-                            </tr>
-                            <tr>
-                                <td>MAST 219</td>
-                                <td>MULTIVARIABLE CALCULUS II</td>
-                            </tr>
-                            <tr>
-                                <td>MECH 211</td>
-                                <td>MECHANICAL ENGR. DRAWING</td>
-                            </tr>
-                            <tr>
-                                <td>GEOL 208</td>
-                                <td>THE EARTH, MOON AND PLANETS</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 252</td>
-                                <td>LINEAR ALGEBRA II</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 365</td>
-                                <td>ANALYSIS II</td>
-                            </tr>
-                            <tr>
-                                <td>STAT 249</td>
-                                <td>PROBABILITY I</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 366</td>
-                                <td>COMPLEX ANALYSIS I</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 369</td>
-                                <td>ABSTRACT ALGEBRA I</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 392</td>
-                                <td>ELEMENTARY NUMBER THEORY</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 475</td>
-                                <td>TOPIC: DISCRETE DYNAMICAL SYSTEMS</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 252</td>
-                                <td>LINEAR ALGEBRA II</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 467</td>
-                                <td>MEASURE THEORY</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 470</td>
-                                <td>ABSTRACT ALGEBRA II</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 494</td>
-                                <td>TOPIC: SET THEORY</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 354</td>
-                                <td>NUMERICAL ANALYSIS</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 370</td>
-                                <td>ORDINARY DIFFERENTIAL EQUAT.</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 464</td>
-                                <td>REAL ANALYSIS</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 494</td>
-                                <td>TOPIC: ALGEBRAIC NUMBER THEORY</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 457</td>
-                                <td>FIELDS AND GALOIS THEORY</td>
-                            </tr>
-                            <tr>
-                                <td>MATH 494</td>
-                                <td>TOPIC: RANDOM MATRICES</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <p>NB: This table was constructed using the script located <a href='
+          <table border="0" class="dataframe">
+            <thead>
+              <tr style="text-align: center;">
+                <th>Course Number</th>
+                <th>Description</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>FRAN 305</td>
+                <td>COMMUNICATION ORALE</td>
+              </tr>
+              <tr>
+                <td>GEOL 210</td>
+                <td>INTRODUCTION TO THE EARTH</td>
+              </tr>
+              <tr>
+                <td>MAST 217</td>
+                <td>INTRO/MATHEMATICAL THINKING</td>
+              </tr>
+              <tr>
+                <td>MAST 219</td>
+                <td>MULTIVARIABLE CALCULUS II</td>
+              </tr>
+              <tr>
+                <td>MECH 211</td>
+                <td>MECHANICAL ENGR. DRAWING</td>
+              </tr>
+              <tr>
+                <td>GEOL 208</td>
+                <td>THE EARTH, MOON AND PLANETS</td>
+              </tr>
+              <tr>
+                <td>MATH 252</td>
+                <td>LINEAR ALGEBRA II</td>
+              </tr>
+              <tr>
+                <td>MATH 365</td>
+                <td>ANALYSIS II</td>
+              </tr>
+              <tr>
+                <td>STAT 249</td>
+                <td>PROBABILITY I</td>
+              </tr>
+              <tr>
+                <td>MATH 366</td>
+                <td>COMPLEX ANALYSIS I</td>
+              </tr>
+              <tr>
+                <td>MATH 369</td>
+                <td>ABSTRACT ALGEBRA I</td>
+              </tr>
+              <tr>
+                <td>MATH 392</td>
+                <td>ELEMENTARY NUMBER THEORY</td>
+              </tr>
+              <tr>
+                <td>MATH 475</td>
+                <td>TOPIC: DISCRETE DYNAMICAL SYSTEMS</td>
+              </tr>
+              <tr>
+                <td>MATH 252</td>
+                <td>LINEAR ALGEBRA II</td>
+              </tr>
+              <tr>
+                <td>MATH 467</td>
+                <td>MEASURE THEORY</td>
+              </tr>
+              <tr>
+                <td>MATH 470</td>
+                <td>ABSTRACT ALGEBRA II</td>
+              </tr>
+              <tr>
+                <td>MATH 494</td>
+                <td>TOPIC: SET THEORY</td>
+              </tr>
+              <tr>
+                <td>MATH 354</td>
+                <td>NUMERICAL ANALYSIS</td>
+              </tr>
+              <tr>
+                <td>MATH 370</td>
+                <td>ORDINARY DIFFERENTIAL EQUAT.</td>
+              </tr>
+              <tr>
+                <td>MATH 464</td>
+                <td>REAL ANALYSIS</td>
+              </tr>
+              <tr>
+                <td>MATH 494</td>
+                <td>TOPIC: ALGEBRAIC NUMBER THEORY</td>
+              </tr>
+              <tr>
+                <td>MATH 457</td>
+                <td>FIELDS AND GALOIS THEORY</td>
+              </tr>
+              <tr>
+                <td>MATH 494</td>
+                <td>TOPIC: RANDOM MATRICES</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>NB: This table was constructed using the script located <a href='
         https://github.com/babyalgebraist/babyalgebraist.github.io/blob/master/assets/scripts/course_hist_nb.py'>here</a>.
 
-                        <h4>
-                            BA History and Philosophy of Science, McGill University, 2001
-                        </h4>
-                </ul>
-            </ul>
-
-            <!-- end 'Credentials' List -->
-    </div>
-    <div>
-        <!-- start 'Accomplishmets' List -->
-        <ul>
-            <h2>
-                Accomplishments
-            </h2>
-            <ul>
-                <li>
-                    <h3>
-                        Trans-Atlantic Crossing, 2014
-                    </h3>
-                </li>
-                <ul>
-                    <li>GPS Track Link to Come
-                    </li>
-                </ul>
-            </ul>
+            <h4>
+              BA History and Philosophy of Science, McGill University, 2001
+            </h4>
         </ul>
+      </ul>
 
-        <!-- end 'Accomplishmets' List -->
+      <!-- end 'Credentials' List -->
+</div>
+  
+<br>
 
-    </div>
-    <!-- End of Content -->
+<button onclick="ReverseDisplay('divAccomplish')">show/hide About</button>
+<div id='divAccomplish' class='contentBlock'>
+    <!-- start 'Accomplishmets' List -->
+    <ul>
+      <h2>
+        Accomplishments
+      </h2>
+      <ul>
+        <li>
+          <h3>
+            Trans-Atlantic Crossing, 2014
+          </h3>
+        </li>
+        <ul>
+          <li>GPS Track Link to Come
+          </li>
+        </ul>
+      </ul>
+    </ul>
 
+    <!-- end 'Accomplishmets' List -->
 
-
+</div>
+  <!-- End of Content -->
 
 </body>
 <!-- End of Content -->
+
+<!-- Start JavaScripts -->
+<script type="text/javascript" language="JavaScript">
+    function HideContent(d) {
+        document.getElementById(d).style.display = "none";
+    }
+    function ShowContent(d) {
+        document.getElementById(d).style.display = "block";
+    }
+    function ReverseDisplay(d) {
+        if (document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
+        else { document.getElementById(d).style.display = "none"; }
+    }
+</script>
+</html>
