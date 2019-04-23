@@ -251,8 +251,7 @@ Accomplishments
       </li>
     </ul>
   </ul>
+  </div>
 </details>
 
 <!-- end 'Accomplishmets' List -->
-
-</div>
