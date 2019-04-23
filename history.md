@@ -82,7 +82,7 @@ On My Reading List
 <!-- start 'Active Reading List' -->
 <ul>
 
-  <ul style='list-style: none; '>
+  <ul>
     <li>W.F. Filho, Computer Science Distilled, 2017.</li>
     <li>J.V. Guttag, J.V. Guttag, Introduction to Computation and Programming Using Python, 2013.</li>
     <li>G. James, D. Witten, D. Witten, T. Hastie, R. Tibshirani, An Introduction to Statistical Learning,
