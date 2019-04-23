@@ -240,9 +240,6 @@ https://github.com/babyalgebraist/babyalgebraist.github.io/blob/master/assets/sc
 Accomplishments
 </summary>
 <!-- start 'Accomplishmets' List -->
-  <h2>
-
-  </h2>
   <ul>
     <li>
       <h3>
