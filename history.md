@@ -235,11 +235,11 @@ https://github.com/babyalgebraist/babyalgebraist.github.io/blob/master/assets/sc
 
 
 <details>
-<div>
 <summary>
 Accomplishments
 </summary>
 <!-- start 'Accomplishmets' List -->
+<div>
   <ul>
     <li>
       <h3>
