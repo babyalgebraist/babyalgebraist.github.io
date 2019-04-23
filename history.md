@@ -234,12 +234,14 @@ https://github.com/babyalgebraist/babyalgebraist.github.io/blob/master/assets/sc
 </details>
 
 
-<button onclick="ReverseDisplay('divAccomplish')">show/hide About</button>
-<div  class='contentBlock'>
+<details>
+<div>
+<summary>
+Accomplishments
+</summary>
 <!-- start 'Accomplishmets' List -->
-<ul>
   <h2>
-    Accomplishments
+
   </h2>
   <ul>
     <li>
@@ -252,7 +254,7 @@ https://github.com/babyalgebraist/babyalgebraist.github.io/blob/master/assets/sc
       </li>
     </ul>
   </ul>
-</ul>
+</details>
 
 <!-- end 'Accomplishmets' List -->
 
