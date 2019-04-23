@@ -113,7 +113,7 @@ On My Reading List
 <summary>
   Credentials
 </summary>
-<div  class='contentBlock'>
+<div>
 
       <h4>
         BA Specialization Pure and Applied Mathematics, Concordia University, 2018
