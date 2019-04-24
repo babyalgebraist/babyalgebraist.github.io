@@ -1,5 +1,5 @@
 
 .DS_Store
 **/*.ipynb
-Gemfile
-*.lock
+**/Gemfile
+**/*.lock
