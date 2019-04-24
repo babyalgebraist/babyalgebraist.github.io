@@ -195,8 +195,4 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
 
-ul { list-style-type: none; }
-
 summary { font-style: normal; font-weight: bold; }
-
-.contentBlock { width: 100%; padding: 50px; text-align: center; background-color: lightblue; margin-top: 20px; }

@@ -2,20 +2,7 @@
 ---
 @import "{{ site.theme }}";
 
-ul {
-    list-style-type: none;
-}
-
 summary {
   font-style: normal;
   font-weight: bold;
-}
-
-
-.contentBlock {
-    width: 100%;
-    padding: 50px;
-    text-align: center;
-    background-color: lightblue;
-    margin-top: 20px;
 }
