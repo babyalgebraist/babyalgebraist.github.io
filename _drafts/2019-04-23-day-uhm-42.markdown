@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title: "What do you do with good advice?"
 # subtitle: "You put it to work for you!"
 date: "2019-04-23 21:40:29 -0400"

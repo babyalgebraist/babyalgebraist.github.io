@@ -196,3 +196,25 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .il { color: #099; }
 
 summary { font-style: normal; font-weight: bold; }
+
+table { border: 0; text-align: center; }
+
+.contentWrapper { padding: 5px; }
+
+/* blockOList: ordered list in blocks like blockquote */
+#blockOList { width: 320px; }
+
+#blockOList ol { font-style: italic; font-family: Georgia, Times, serif; font-size: 24px; color: #bfe1f1; }
+
+#blockOList ol li p { padding: 8px; font-style: normal; font-family: Arial; font-size: 13px; color: #eee; border-left: 1px solid #999; }
+
+#blockOList ol li p em { display: block; }
+
+/* blockUList: unordered list in blocks like blockquote */
+#blockUList { width: 320px; }
+
+#blockUList ul { font-style: italic; font-family: Georgia, Times, serif; font-size: 24px; color: #bfe1f1; }
+
+#blockUList ul li p { padding: 8px; font-style: normal; font-family: Arial; font-size: 13px; color: #eee; border-left: 1px solid #999; }
+
+#blockUList ul li p em { display: block; }
