@@ -199,22 +199,15 @@ summary { font-style: normal; font-weight: bold; }
 
 table { border: 0; text-align: center; }
 
-.contentWrapper { padding: 5px; }
+cite { padding-left: 10px; }
 
-/* blockOList: ordered list in blocks like blockquote */
-#blockOList { width: 320px; }
+/* LIST #2 */
+#list2 { width: auto; }
 
-#blockOList ol { font-style: italic; font-family: Georgia, Times, serif; font-size: 24px; color: #bfe1f1; }
+#list2 ol { font-style: italic; font-size: 24px; color: black; }
 
-#blockOList ol li p { padding: 8px; font-style: normal; font-family: Arial; font-size: 13px; color: #eee; border-left: 1px solid #999; }
+#list2 ol:before { content: attr(data-header); font-style: normal; font-size: 20px; margin-left: -30px; }
 
-#blockOList ol li p em { display: block; }
+#list2 ol li p { margin: 0 0 -15px 0; color: #828282; border-left: 4px solid #e8e8e8; padding: 15px 0 0 8px; font-size: 18px; font-style: italic; }
 
-/* blockUList: unordered list in blocks like blockquote */
-#blockUList { width: 320px; }
-
-#blockUList ul { font-style: italic; font-family: Georgia, Times, serif; font-size: 24px; color: #bfe1f1; }
-
-#blockUList ul li p { padding: 8px; font-style: normal; font-family: Arial; font-size: 13px; color: #eee; border-left: 1px solid #999; }
-
-#blockUList ul li p em { display: block; }
+#list2 ol li p em { display: block; }
