@@ -81,24 +81,18 @@ On My Reading List
 <div>
 <!-- start 'Active Reading List' -->
 <ul>
-
-  <ul>
-    <li>W.F. Filho, Computer Science Distilled, 2017.</li>
-    <li>J.V. Guttag, J.V. Guttag, Introduction to Computation and Programming Using Python, 2013.</li>
-    <li>G. James, D. Witten, D. Witten, T. Hastie, R. Tibshirani, An Introduction to Statistical Learning,
-      2015.</li>
-    <li>Z.A. Shaw, LEARN PYTHON 3 THE HARD WAY, 2017.</li>
-    <li>D.D. Wackerly, W. Mendenhall III, R.L. Shaeffer, Mathematical Statistics with Applications, 2017.
+    <li>W.F. Filho, <cite>Computer Science Distilled</cite>, 2017</li>
+    <li>J.V. Guttag, <cite>Introduction to Computation and Programming Using Python</cite>, 2013</li>
+    <li>G. James, D. Witten, D. Witten, T. Hastie, R. Tibshirani, <cite>An Introduction to Statistical Learning</cite>,
+      2015</li>
+    <li>Z.A. Shaw, <cite>Learn Python 3 the Hard Way</cite>, 2017</li>
+    <li>D.D. Wackerly, W. Mendenhall III, R.L. Shaeffer, <cite>Mathematical Statistics with Applications</cite>, 2017
     </li>
-    <li>Numerical Analysis, (2010) 1–895.</li>
-    <li>D.A. Freedman, Statistical Models, 2009.</li>
-    <li>A.B. Downey, Think Bayes, 2013.</li>
-    <li>A.B. Downey, Think Python, 2E, (2015) 1–291.</li>
-    <li>A.B. Downey, Think Stats, 2014.</li>
-    <li>T. Hastie, R. Tibshirani, J. Friedman, The Elements of Statistical Learning, 2013. </li>
-    <li>Information Theory, Inference, and Learning Algorithms, (2003) 1–640.</li>
-
-  </ul>
+    <li>R.L Burden, J.D. Faires, <cite>Numerical Analysis</cite>, 2010</li>
+    <li>D.A. Freedman, <cite>Statistical Models</cite>, 2009</li>
+    <li>A.B. Downey, <cite>Think Bayes</cite>, 2013.</li>
+    <li>A.B. Downey, <cite>Think Python</cite>, 2015</li>
+    <li>A.B. Downey, <cite>Think Stats</cite>, 2014</li>
 </ul>
 <!-- end 'Active Reading List' -->
 </div>
@@ -126,103 +120,101 @@ On My Reading List
             <th>Description</th>
           </tr>
         </thead>
-        <tbody>
-          <tr>
-            <td>FRAN 305</td>
-            <td>COMMUNICATION ORALE</td>
-          </tr>
-          <tr>
-            <td>GEOL 210</td>
-            <td>INTRODUCTION TO THE EARTH</td>
-          </tr>
-          <tr>
-            <td>MAST 217</td>
-            <td>INTRO/MATHEMATICAL THINKING</td>
-          </tr>
-          <tr>
-            <td>MAST 219</td>
-            <td>MULTIVARIABLE CALCULUS II</td>
-          </tr>
-          <tr>
-            <td>MECH 211</td>
-            <td>MECHANICAL ENGR. DRAWING</td>
-          </tr>
-          <tr>
-            <td>GEOL 208</td>
-            <td>THE EARTH, MOON AND PLANETS</td>
-          </tr>
-          <tr>
-            <td>MATH 252</td>
-            <td>LINEAR ALGEBRA II</td>
-          </tr>
-          <tr>
-            <td>MATH 365</td>
-            <td>ANALYSIS II</td>
-          </tr>
-          <tr>
-            <td>STAT 249</td>
-            <td>PROBABILITY I</td>
-          </tr>
-          <tr>
-            <td>MATH 366</td>
-            <td>COMPLEX ANALYSIS I</td>
-          </tr>
-          <tr>
-            <td>MATH 369</td>
-            <td>ABSTRACT ALGEBRA I</td>
-          </tr>
-          <tr>
-            <td>MATH 392</td>
-            <td>ELEMENTARY NUMBER THEORY</td>
-          </tr>
-          <tr>
-            <td>MATH 475</td>
-            <td>TOPIC: DISCRETE DYNAMICAL SYSTEMS</td>
-          </tr>
-          <tr>
-            <td>MATH 252</td>
-            <td>LINEAR ALGEBRA II</td>
-          </tr>
-          <tr>
-            <td>MATH 467</td>
-            <td>MEASURE THEORY</td>
-          </tr>
-          <tr>
-            <td>MATH 470</td>
-            <td>ABSTRACT ALGEBRA II</td>
-          </tr>
-          <tr>
-            <td>MATH 494</td>
-            <td>TOPIC: SET THEORY</td>
-          </tr>
-          <tr>
-            <td>MATH 354</td>
-            <td>NUMERICAL ANALYSIS</td>
-          </tr>
-          <tr>
-            <td>MATH 370</td>
-            <td>ORDINARY DIFFERENTIAL EQUAT.</td>
-          </tr>
-          <tr>
-            <td>MATH 464</td>
-            <td>REAL ANALYSIS</td>
-          </tr>
-          <tr>
-            <td>MATH 494</td>
-            <td>TOPIC: ALGEBRAIC NUMBER THEORY</td>
-          </tr>
-          <tr>
-            <td>MATH 457</td>
-            <td>FIELDS AND GALOIS THEORY</td>
-          </tr>
-          <tr>
-            <td>MATH 494</td>
-            <td>TOPIC: RANDOM MATRICES</td>
-          </tr>
-        </tbody>
+        <TBODY>
+            <TR>
+              <TD>Fran 305</TD>
+              <TD>Communication Orale</TD>
+            </TR>
+            <TR>
+              <TD>Geol 210</TD>
+              <TD>Introduction to the Earth</TD>
+            </TR>
+            <TR>
+              <TD>Mast 217</TD>
+              <TD>Intro/Mathematical Thinking</TD>
+            </TR>
+            <TR>
+              <TD>Mast 219</TD>
+              <TD>Multivariable Calculus II</TD>
+            </TR>
+            <TR>
+              <TD>Mech 211</TD>
+              <TD>Mechanical Engineering: Drawing</TD>
+            </TR>
+            <TR>
+              <TD>Geol 208</TD>
+              <TD>The Earth, Moon, and Planets</TD>
+            </TR>
+            <TR>
+              <TD>Math 252</TD>
+              <TD>Linear Algebra II</TD>
+            </TR>
+            <TR>
+              <TD>Math 365</TD>
+              <TD>Analysis II</TD>
+            </TR>
+            <TR>
+              <TD>Stat 249</TD>
+              <TD>Probability I</TD>
+            </TR>
+            <TR>
+              <TD>Math 366</TD>
+              <TD>Complex Analysis I</TD>
+            </TR>
+            <TR>
+              <TD>Math 369</TD>
+              <TD>Abstract Algebra I</TD>
+            </TR>
+            <TR>
+              <TD>Math 392</TD>
+              <TD>Elementary Number Theory</TD>
+            </TR>
+            <TR>
+              <TD>Math 475</TD>
+              <TD>Topic: Discrete Dynamical Systems</TD>
+            </TR>
+            <TR>
+              <TD>Math 252</TD>
+              <TD>Linear Algebra II</TD>
+            </TR>
+            <TR>
+              <TD>Math 467</TD>
+              <TD>Measure Theory</TD>
+            </TR>
+            <TR>
+              <TD>Math 470</TD>
+              <TD>Abstract Algebra II</TD>
+            </TR>
+            <TR>
+              <TD>Math 494</TD>
+              <TD>Topic: Set Theory</TD>
+            </TR>
+            <TR>
+              <TD>Math 354</TD>
+              <TD>Numerical Analysis</TD>
+            </TR>
+            <TR>
+              <TD>Math 370</TD>
+              <TD>Ordinary Differential Equations</TD>
+            </TR>
+            <TR>
+              <TD>Math 464</TD>
+              <TD>Real Analysis</TD>
+            </TR>
+            <TR>
+              <TD>Math 494</TD>
+              <TD>Topic: Algebraic Number Theory</TD>
+            </TR>
+            <TR>
+              <TD>Math 457</TD>
+              <TD>Fields and Galois Theory</TD>
+            </TR>
+            <TR>
+              <TD>Math 494</TD>
+              <TD>Topic: Random Matrices</TD>
+            </TR>
+          </TBODY>
       </table>
-        <p>NB: This table was constructed using the script located <a href='
-https://github.com/babyalgebraist/babyalgebraist.github.io/blob/master/assets/scripts/course_hist_nb.py'>here</a>.</p>
 
           <h3>
             BA History and Philosophy of Science, McGill University, 2001
@@ -250,6 +242,25 @@ https://github.com/babyalgebraist/babyalgebraist.github.io/blob/master/assets/sc
         <li>GPS Track Link to Come
         </li>
       </ul>
+      <li>
+        <h3>
+          Montreal's only 3.5 star rating for a Steak House
+        </h3>
+        <ul>
+          <li>
+          <blockquote>
+            <p>
+              Since my first review in 1999, every meal I’ve enjoyed at Moishes has been better than the last. Yet I always held to the line that a steak house could never rate more than three stars for one reason: lack of innovation. But after many years I’ve come to the conclusion that though innovation and artistry always merit praise, shouldn’t the mastery of simplicity be commended as well?
+            </p>
+
+            <footer>— Leslie Chesterman, <cite><a href="https://www.montrealgazette.com/life/Fine+Dining+Moishes/6710436/story.html">Montreal Gazette, 06.27.2012</a></cite></footer>
+          </blockquote>
+
+          <q></q>
+          </li>
+
+        </ul>
+      </li>
     </ul>
     </div>
 </details>
