@@ -5,29 +5,22 @@
 summary {
   font-style: normal;
   font-weight: bold;
+  background-color: skyblue;
+  padding-left: 8px;
+  margin-bottom: 8px;
+  border-radius: 3px
 }
 
-table {
-  border: 0;
-  text-align: center;
+/*  for back-to-back headings that
+    act ast sub-headings h5 too small */
+h4 + h4 {
+  font-size: 95%;
+  font-style: italic;
 }
 
-.contentWrapper {
-  // padding-left: 5px;
-}
-
-cite { padding-left: 10px; }
-
-/* LIST #2 */
-#list2 { width: auto; }
-#list2 ol { font-style:italic; font-size: 24px; color: black;  }
-#list2 ol:before {
-    content:attr(data-header);
-    font-style: normal;
-    font-size: 20px;
-    // font-weight:bold;
-    margin-left:-30px;
-}
-#list2 ol li { }
-#list2 ol li p { margin: 0 0 -15px 0; color: #828282; border-left: 4px solid #e8e8e8; padding: 15px 0 0 8px ; font-size: 18px; font-style: italic; }
-#list2 ol li p em { display:block; }
+/* bloclOList */
+#bloclOList { width: 95%; }
+#bloclOList ol { font-style:italic; font-size: 24px; color: black; margin-bottom: 10px;}
+#bloclOList ol li {border-left: 4px solid #e8e8e8; }
+#bloclOList ol li p { color: #828282;  padding: 8px 0 0 8px ; font-size: 18px;  }
+#bloclOList ol li p em {  color: skyblue; font-style: normal; }
