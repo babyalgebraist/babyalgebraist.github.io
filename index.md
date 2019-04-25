@@ -10,7 +10,7 @@ layout: home
   width: auto;
   max-height: 90px;
   background-image: url("https://live.staticflickr.com/8097/8497834581_53322dd0ff_h.jpg");
-  background-repeat: no-repeat;
+  
 }
 </style>
 
