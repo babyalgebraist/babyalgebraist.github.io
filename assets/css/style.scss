@@ -5,7 +5,7 @@
 summary {
   font-style: normal;
   font-weight: bold;
-  background-color: skyblue;
+  background-color: #44bfb7;
   padding-left: 8px;
   margin-bottom: 8px;
   border-radius: 3px
@@ -21,6 +21,16 @@ h4 + h4 {
 /* bloclOList */
 #bloclOList { width: 95%; }
 #bloclOList ol { font-style:italic; font-size: 24px; color: black; margin-bottom: 10px;}
-#bloclOList ol li {border-left: 4px solid #e8e8e8; }
-#bloclOList ol li p { color: #828282;  padding: 8px 0 0 8px ; font-size: 18px;  }
-#bloclOList ol li p em {  color: skyblue; font-style: normal; }
+#bloclOList ol li {border-left: 4px solid #6a6a6a; }
+#bloclOList ol li p { color: black;  padding: 8px 0 0 8px ; font-size: 18px;  }
+#bloclOList ol li p em {  color: #44bfb7; font-style: normal; }
+
+
+/*
+Colourt I like
+
+	#990033
+  #993333
+  44bfb7
+  6a6a6a
+*/

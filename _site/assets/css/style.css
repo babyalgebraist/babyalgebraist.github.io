@@ -195,7 +195,7 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
 
-summary { font-style: normal; font-weight: bold; background-color: skyblue; padding-left: 8px; margin-bottom: 8px; border-radius: 3px; }
+summary { font-style: normal; font-weight: bold; background-color: #44bfb7; padding-left: 8px; margin-bottom: 8px; border-radius: 3px; }
 
 /*  for back-to-back headings that act ast sub-headings h5 too small */
 h4 + h4 { font-size: 95%; font-style: italic; }
@@ -205,8 +205,14 @@ h4 + h4 { font-size: 95%; font-style: italic; }
 
 #bloclOList ol { font-style: italic; font-size: 24px; color: black; margin-bottom: 10px; }
 
-#bloclOList ol li { border-left: 4px solid #e8e8e8; }
+#bloclOList ol li { border-left: 4px solid #6a6a6a; }
 
-#bloclOList ol li p { color: #828282; padding: 8px 0 0 8px; font-size: 18px; }
+#bloclOList ol li p { color: black; padding: 8px 0 0 8px; font-size: 18px; }
 
-#bloclOList ol li p em { color: skyblue; font-style: normal; }
+#bloclOList ol li p em { color: #44bfb7; font-style: normal; }
+
+/*
+Colourt I like
+
+	#990033 #993333 44bfb7 6a6a6a
+*/
