@@ -9,235 +9,25 @@ permalink: /history/
 <link href="{{ "/assets/css/style.css" | relative_url }}" rel="stylesheet">
 
 <div role="main">
+<div style="width: 95%">
+<hr />
   <p> Never one to be idle, here is a list of what I've been up to while I 'skill up' on the road to changing careers.</p>
+  <p>
+    With the formal education out of the way, here is a list of the online courses I've been working on since graduation, followed by some of the languages I am noodling around with in these courses. (I know, I know: "Where's the proof!?" It's coming. Soon.  Had to make the website first.)
+  </p>
+  <p>
+    Beyond that, what I'm currently using as reference and 'light' reading.  I hope to put up some reviews at which time those will be linked here.
+  </p>
+  <p>
+    Finally, I list a couple of the big things that have happened to me, which might show I'm human. :-)
+  </p>
+  <p>
+    If you notice any typos, please let me know! jf
+  </p>
+  <hr />
 
-  <!-- Start 'Courses' List -->
-  <div id="bloclOList">
-    <details>
-      <summary>
-        Online Courses
-      </summary>
-
-        <ul>
-          <li>
-            <h4>
-              Data Structures and Algorithms Specialization
-            </h4>
-
-            <blockquote>
-              <q>This specialization is a mix of theory and practice: you will learn algorithmic techniques for solving various computational problems and will implement about 100 algorithmic coding problems in a programming language of your choice.</q>
-
-              <footer>- UCSD Higher School of Economics <cite><a href='https://www.coursera.org/specializations/data-structures-algorithms'>@Coursera</a></cite>
-              </footer>
-            </blockquote>
-            <!--  start 'Course Descriptions for Specialization' -->
-            <details>
-              <summary>
-                Courses in this Specialization
-              </summary>
-                <ol>
-                  <li>
-                    <p><em>Algorithmic Toolbox: </em>Completed, April 2019</p>
-                    <blockquote>
-                      <q>
-                      The course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We will learn a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. You will practice solving computational problems, designing new algorithms, and implementing solutions efficiently[.]
-                      </q>
-                    </blockquote>
-                  </li>
-
-                  <li>
-                    <p><em>Data Structures: </em>In Progress</p>
-                    <blockquote>
-                      <q>
-                        A good algorithm usually comes together with a set of good data structures that allow the algorithm to manipulate the data efficiently. In this course, we consider the common data structures that are used in various computational problems. You will learn how these data structures are implemented in different programming languages and will practice implementing them in our programming assignments. This will help you to understand what is going on inside a particular built-in implementation of a data structure and what to expect from it. You will also learn typical use cases for these data structures.
-                      </q>
-                    </blockquote>
-                  </li>
-
-                  <li>
-                    <p><em>Algorithms on Graphs: </em></p>
-                    <blockquote>
-                      <q>
-                        In this course, you will first learn what a graph is and what are some of the most important properties. Then you'll learn several ways to traverse graphs and how you can do useful things while traversing the graph in some order. We will then talk about shortest paths algorithms — from the basic ones to those which open door for 1000000 times faster algorithms used in Google Maps and other navigational services. You will use these algorithms if you choose to work on our Fast Shortest Routes industrial capstone project. We will finish with minimum spanning trees which are used to plan road, telephone and computer networks and also find applications in clustering and approximate algorithms.
-                      </q>
-                    </blockquote>
-                  </li>
-
-                  <li>
-                    <p><em>Algorithms on Strings: </em></p>
-                    <blockquote>
-                      <q>
-                        [The] World and internet is full of textual information. We search for information using textual queries, we read websites, books, e-mails. All those are strings from the point of view of computer science. To make sense of all that information and make search efficient, search engines use many string algorithms. Moreover, the emerging field of personalized medicine uses many search algorithms to find disease-causing mutations in the human genome.
-                      </q>
-                    </blockquote>
-                  </li>
-
-                  <li>
-                    <p><em>Advanced Algorithms and Complexity: </em></p>
-                    <blockquote>
-                      <q>
-                        You've learned the basic algorithms now and are ready to step into the area of more complex problems and algorithms to solve them. Advanced algorithms build upon basic ones and use new ideas. We will start with networks flows which are used in more typical applications such as optimal matchings, finding disjoint paths and flight scheduling as well as more surprising ones like image segmentation in computer vision. We then proceed to linear programming with applications in optimizing budget allocation, portfolio optimization, finding the cheapest diet satisfying all requirements and many others. Next we discuss inherently hard problems for which no exact good solutions are known (and not likely to be found) and how to solve them in practice. We finish with a soft introduction to streaming algorithms that are heavily used in Big Data processing. Such algorithms are usually designed to be able to process huge datasets without being able even to store a dataset.
-                      </q>
-                    </blockquote>
-                  </li>
-
-                  <li>
-                    <p><em>Genome Assembly Challenge: </em></p>
-                    <blockquote>
-                      <q>
-                        In Spring 2011, thousands of people in Germany were hospitalized with a deadly disease that started as food poisoning with bloody diarrhea and often led to kidney failure. It was the beginning of the deadliest outbreak in recent history, caused by a mysterious bacterial strain that we will refer to as E. coli X. Soon, German officials linked the outbreak to a restaurant in Lübeck, where nearly 20% of the patrons had developed bloody diarrhea in a single week. At this point, biologists knew that they were facing a previously unknown pathogen and that traditional methods would not suffice – computational biologists would be needed to assemble and analyze the genome of the newly emerged pathogen. To investigate the evolutionary origin and pathogenic potential of the outbreak strain, researchers started a crowdsourced research program. They released bacterial DNA sequencing data from one of a patient, which elicited a burst of analyses carried out by computational biologists on four continents. They even used <a href="https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki">[GitHub for the project]</a>  The 2011 German outbreak represented an early example of epidemiologists collaborating with computational biologists to stop an outbreak. In this Genome Assembly Programming Challenge, you will follow in the footsteps of the bioinformaticians investigating the outbreak by developing a program to assemble the genome of the E. coli X from millions of overlapping substrings of the E.coli X genome.
-                      </q>
-                    </blockquote>
-                  </li>
-                </ol>
-
-          </details>
-          <!--  end 'Course Descriptions for Specialization' -->
-          </li>
-
-          <!-- Next Course -->
-          <li >
-
-            <h4>
-              Introduction to Computer Science - In Progress
-            </h4>
-
-            <blockquote>
-              <p>
-                <q>Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming.</q>
-              </p>
-              <footer>- Harvardx
-                <cite>
-                    <a href='https://www.edx.org/course/cs50s-introduction-to-computer-science'>
-                      @edX
-                    </a>
-                </cite>
-              </footer>
-            </blockquote>
-          </li>
-
-          <!--  Next Course -->
-          <li>
-            <h4>
-              <!--  heading of Section to Hide/Show-->
-              Python for Data Science Track -  In Progress
-            </h4>
-            <blockquote>
-              <p>
-                <!-- Quote -->
-                <q>A Data Scientist combines statistical and machine learning techniques with Python programming to analyze and interpret complex data.</q>
-              </p>
-              <footer>
-                <cite>
-                  <a href='https://www.datacamp.com/tracks/data-scientist-with-python'> @DataCamp
-                  </a>
-                </cite>
-              </footer>
-            </blockquote>
-            <p>For a complete list of the 22 courses in this track and their descriptions, see the link above.</p>
-          </li>
-          <!-- Next Course -->
-          <li>
-              <h4>
-                <!--  heading of Section to Hide/Show-->
-                Machine Learning - Complete
-              </h4>
-            <blockquote>
-              <p>
-                <!-- Quote -->
-                <q>This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.</q>
-              </p>
-              <footer>
-                <cite>
-                  Andrew Ng, Stanford University
-                  <!-- Citation link -->
-                  <a href="https://www.coursera.org/learn/machine-learning/home/info">
-                  @Coursera
-                  </a>
-                </cite>
-              </footer>
-            </blockquote>
-          </li>
-        </ul>
-    </details>
+  <h3>Personal History</h3>
   </div>
-  <!-- End 'Courses' list -->
-
-<!-- Start Languages/Frameworks -->
-<div id="bloclOList">
-  <details>
-  <summary>
-    Languages and Frameworks
-  </summary>
-
-  <ul>
-    <ol>
-      <li><p><em>Python:</em> from December 2018</p></li>
-      <li><p><em>CS50: </em> C, C++, Java, JavaScript, HTML, CSS</p></li>
-      <li><p><em>Octave/MATLAB:</em> for Machine Learning</p></li>
-      <li><p><em>Maple and Mathematica:</em> for mathematical exploration</p></li>
-    </ol>
-  </ul>
-  </details>
-</div>
-<!-- end Languages/Frameworks -->
-
-<!-- start 'Active Reading List' -->
-<div  id="bloclOList">
-  <details>
-  <summary>
-  On My Reading List
-  </summary>
-    <ul>
-      <ol>
-      <!-- The style attribute is used bc I don't know the Best
-      way to get this behaviour from style sheet -->
-        <li>
-          <p style=" white-space: pre-line;"><em>Computer Science Distilled</em>
-          W.F. Filho, 2017</p>
-        </li>
-        <li>
-          <p style=" white-space: pre-line;"><em>Introduction to Computation and Programming Using Python</em>
-          J.V. Guttag, 2013</p>
-        </li>
-        <li>
-          <p style=" white-space: pre-line;"><em>An Introduction to Statistical Learning</em>
-          G. James, D. Witten, T. Hastie, R. Tibshirani, 2015</p>
-        </li>
-        <li>
-          <p style=" white-space: pre-line;"><em>Learn Python 3 the Hard Way,</em>
-          Z.A. Shaw, 2017</p>
-        </li>
-        <li>
-          <p style=" white-space: pre-line;"><em>Mathematical Statistics with Applications</em>
-          D.D. Wackerly, W. Mendenhall III, R.L. Shaeffer, 2017</p>
-        </li>
-        <li>
-          <p style=" white-space: pre-line;"><em>Numerical Analysis</em>
-          R.L Burden, J.D. Faires, 2010</p>
-        </li>
-        <li>
-          <p style=" white-space: pre-line;"><em>Statistical Models</em>
-          D.A. Freedman, 2009</p>
-        </li>
-        <li>
-          <p style=" white-space: pre-line;"><em>Think Bayes</em>
-          A.B. Downey, 2013</p>
-        </li>
-        <li>
-          <p style=" white-space: pre-line;"><em>Think Python</em>
-          A.B. Downey, 2015</p>
-        </li>
-        <li>
-          <p style=" white-space: pre-line;"><em>Think Stats</em>
-          A.B. Downey, 2014</p>
-        </li>
-      </ol>
-    </ul>
-
-  </details>
-</div>
-<!-- end 'Active Reading List' -->
 
   <!-- 'Education' List -->
   <div id="bloclOList">
@@ -476,17 +266,244 @@ permalink: /history/
               </p>
         </li>
       </ul>
-        <!-- end 'Credentials' List -->
+
     </details>
   </div>
+  <!-- end 'Education'  -->
 
+  <!-- Start 'Online Courses' -->
+  <div id="bloclOList">
+    <details>
+      <summary>
+        Online Courses
+      </summary>
+        <ul>
+          <li>
+            <h4>
+              Data Structures and Algorithms Specialization
+            </h4>
+
+            <blockquote>
+              <q>This specialization is a mix of theory and practice: you will learn algorithmic techniques for solving various computational problems and will implement about 100 algorithmic coding problems in a programming language of your choice.</q>
+
+              <footer>- UCSD Higher School of Economics <cite><a href='https://www.coursera.org/specializations/data-structures-algorithms'>@Coursera</a></cite>
+              </footer>
+            </blockquote>
+            <!--  start 'Course Descriptions for Specialization' -->
+            <details>
+              <summary>
+                Courses in this Specialization
+              </summary>
+                <ol>
+                  <li>
+                    <p><em>Algorithmic Toolbox: </em>Completed, April 2019</p>
+                    <blockquote>
+                      <q>
+                      The course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We will learn a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. You will practice solving computational problems, designing new algorithms, and implementing solutions efficiently[.]
+                      </q>
+                    </blockquote>
+                  </li>
+
+                  <li>
+                    <p><em>Data Structures: </em>In Progress</p>
+                    <blockquote>
+                      <q>
+                        A good algorithm usually comes together with a set of good data structures that allow the algorithm to manipulate the data efficiently. In this course, we consider the common data structures that are used in various computational problems. You will learn how these data structures are implemented in different programming languages and will practice implementing them in our programming assignments. This will help you to understand what is going on inside a particular built-in implementation of a data structure and what to expect from it. You will also learn typical use cases for these data structures.
+                      </q>
+                    </blockquote>
+                  </li>
+
+                  <li>
+                    <p><em>Algorithms on Graphs: </em></p>
+                    <blockquote>
+                      <q>
+                        In this course, you will first learn what a graph is and what are some of the most important properties. Then you'll learn several ways to traverse graphs and how you can do useful things while traversing the graph in some order. We will then talk about shortest paths algorithms — from the basic ones to those which open door for 1000000 times faster algorithms used in Google Maps and other navigational services. You will use these algorithms if you choose to work on our Fast Shortest Routes industrial capstone project. We will finish with minimum spanning trees which are used to plan road, telephone and computer networks and also find applications in clustering and approximate algorithms.
+                      </q>
+                    </blockquote>
+                  </li>
+
+                  <li>
+                    <p><em>Algorithms on Strings: </em></p>
+                    <blockquote>
+                      <q>
+                        [The] World and internet is full of textual information. We search for information using textual queries, we read websites, books, e-mails. All those are strings from the point of view of computer science. To make sense of all that information and make search efficient, search engines use many string algorithms. Moreover, the emerging field of personalized medicine uses many search algorithms to find disease-causing mutations in the human genome.
+                      </q>
+                    </blockquote>
+                  </li>
+
+                  <li>
+                    <p><em>Advanced Algorithms and Complexity: </em></p>
+                    <blockquote>
+                      <q>
+                        You've learned the basic algorithms now and are ready to step into the area of more complex problems and algorithms to solve them. Advanced algorithms build upon basic ones and use new ideas. We will start with networks flows which are used in more typical applications such as optimal matchings, finding disjoint paths and flight scheduling as well as more surprising ones like image segmentation in computer vision. We then proceed to linear programming with applications in optimizing budget allocation, portfolio optimization, finding the cheapest diet satisfying all requirements and many others. Next we discuss inherently hard problems for which no exact good solutions are known (and not likely to be found) and how to solve them in practice. We finish with a soft introduction to streaming algorithms that are heavily used in Big Data processing. Such algorithms are usually designed to be able to process huge datasets without being able even to store a dataset.
+                      </q>
+                    </blockquote>
+                  </li>
+
+                  <li>
+                    <p><em>Genome Assembly Challenge: </em></p>
+                    <blockquote>
+                      <q>
+                        In Spring 2011, thousands of people in Germany were hospitalized with a deadly disease that started as food poisoning with bloody diarrhea and often led to kidney failure. It was the beginning of the deadliest outbreak in recent history, caused by a mysterious bacterial strain that we will refer to as E. coli X. Soon, German officials linked the outbreak to a restaurant in Lübeck, where nearly 20% of the patrons had developed bloody diarrhea in a single week. At this point, biologists knew that they were facing a previously unknown pathogen and that traditional methods would not suffice – computational biologists would be needed to assemble and analyze the genome of the newly emerged pathogen. To investigate the evolutionary origin and pathogenic potential of the outbreak strain, researchers started a crowdsourced research program. They released bacterial DNA sequencing data from one of a patient, which elicited a burst of analyses carried out by computational biologists on four continents. They even used <a href="https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki">[GitHub for the project]</a>  The 2011 German outbreak represented an early example of epidemiologists collaborating with computational biologists to stop an outbreak. In this Genome Assembly Programming Challenge, you will follow in the footsteps of the bioinformaticians investigating the outbreak by developing a program to assemble the genome of the E. coli X from millions of overlapping substrings of the E.coli X genome.
+                      </q>
+                    </blockquote>
+                  </li>
+                </ol>
+
+          </details>
+          <!--  end 'Course Descriptions for Specialization' -->
+          </li>
+
+          <!-- Next Course -->
+          <li >
+
+            <h4>
+              Introduction to Computer Science - In Progress
+            </h4>
+
+            <blockquote>
+              <p>
+                <q>Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming.</q>
+              </p>
+              <footer>- Harvardx
+                <cite>
+                    <a href='https://www.edx.org/course/cs50s-introduction-to-computer-science'>
+                      @edX
+                    </a>
+                </cite>
+              </footer>
+            </blockquote>
+          </li>
+
+          <!--  Next Course -->
+          <li>
+            <h4>
+              <!--  heading of Section to Hide/Show-->
+              Python for Data Science Track -  In Progress
+            </h4>
+            <blockquote>
+              <p>
+                <!-- Quote -->
+                <q>A Data Scientist combines statistical and machine learning techniques with Python programming to analyze and interpret complex data.</q>
+              </p>
+              <footer>
+                <cite>
+                  <a href='https://www.datacamp.com/tracks/data-scientist-with-python'> @DataCamp
+                  </a>
+                </cite>
+              </footer>
+            </blockquote>
+            <p>For a complete list of the 22 courses in this track and their descriptions, see the link above.</p>
+          </li>
+          <!-- Next Course -->
+          <li>
+              <h4>
+                <!--  heading of Section to Hide/Show-->
+                Machine Learning - Complete
+              </h4>
+            <blockquote>
+              <p>
+                <!-- Quote -->
+                <q>This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.</q>
+              </p>
+              <footer>
+                <cite>
+                  Andrew Ng, Stanford University
+                  <!-- Citation link -->
+                  <a href="https://www.coursera.org/learn/machine-learning/home/info">
+                  @Coursera
+                  </a>
+                </cite>
+              </footer>
+            </blockquote>
+          </li>
+        </ul>
+    </details>
+  </div>
+  <!-- End 'Courses' list -->
+
+  <!-- Start Languages/Frameworks -->
+  <div id="bloclOList">
+    <details>
+    <summary>
+      Languages and Frameworks
+    </summary>
+
+    <ul>
+      <ol>
+        <li><p><em>Python:</em> from December 2018</p></li>
+        <li><p><em>CS50: </em> C, C++, Java, JavaScript, HTML, CSS</p></li>
+        <li><p><em>Octave/MATLAB:</em> for Machine Learning</p></li>
+        <li><p><em>Maple and Mathematica:</em> for mathematical exploration</p></li>
+      </ol>
+    </ul>
+    </details>
+  </div>
+  <!-- end Languages/Frameworks -->
+
+  <!-- start 'Active Reading List' -->
+  <div  id="bloclOList">
+    <details>
+    <summary>
+    On My Reading List
+    </summary>
+      <ul>
+        <ol>
+        <!-- The style attribute is used bc I don't know the Best
+        way to get this behaviour from style sheet -->
+          <li>
+            <p style=" white-space: pre-line;"><em>Computer Science Distilled</em>
+            W.F. Filho, 2017</p>
+          </li>
+          <li>
+            <p style=" white-space: pre-line;"><em>Introduction to Computation and Programming Using Python</em>
+            J.V. Guttag, 2013</p>
+          </li>
+          <li>
+            <p style=" white-space: pre-line;"><em>An Introduction to Statistical Learning</em>
+            G. James, D. Witten, T. Hastie, R. Tibshirani, 2015</p>
+          </li>
+          <li>
+            <p style=" white-space: pre-line;"><em>Learn Python 3 the Hard Way,</em>
+            Z.A. Shaw, 2017</p>
+          </li>
+          <li>
+            <p style=" white-space: pre-line;"><em>Mathematical Statistics with Applications</em>
+            D.D. Wackerly, W. Mendenhall III, R.L. Shaeffer, 2017</p>
+          </li>
+          <li>
+            <p style=" white-space: pre-line;"><em>Numerical Analysis</em>
+            R.L Burden, J.D. Faires, 2010</p>
+          </li>
+          <li>
+            <p style=" white-space: pre-line;"><em>Statistical Models</em>
+            D.A. Freedman, 2009</p>
+          </li>
+          <li>
+            <p style=" white-space: pre-line;"><em>Think Bayes</em>
+            A.B. Downey, 2013</p>
+          </li>
+          <li>
+            <p style=" white-space: pre-line;"><em>Think Python</em>
+            A.B. Downey, 2015</p>
+          </li>
+          <li>
+            <p style=" white-space: pre-line;"><em>Think Stats</em>
+            A.B. Downey, 2014</p>
+          </li>
+        </ol>
+      </ul>
+
+    </details>
+  </div>
+  <!-- end 'Active Reading List' -->
+
+  <!-- start 'Accomplishmets' List -->
   <div id="bloclOList">
     <details>
       <summary>
         Accomplishments
       </summary>
-    <!-- start 'Accomplishmets' List -->
-
       <ul style="list-style-type: none;">
         <li>
           <h4>

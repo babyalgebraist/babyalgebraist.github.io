@@ -195,10 +195,20 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
 
+h1, h2, h3, h4, h5 { color: #990033; }
+
+a { color: #006699; }
+
+a:visited { color: #993333; }
+
 summary { font-style: normal; font-weight: bold; color: white; background-color: #339999; padding-left: 8px; margin-bottom: 8px; border-radius: 3px; }
 
+hr { display: block; height: 1px; border: 0; border-top: 2px solid #993333; margin: 0; padding: 0.5em 0 0.5em 0; }
+
+summary p { padding-left: 20px; font-weight: normal; font-style: italic; }
+
 /*  for back-to-back headings that act ast sub-headings h5 too small */
-h4 + h4 { font-size: 95%; font-style: italic; }
+h4 + h4 { font-size: 95%; font-style: italic; margin-top: -1em; }
 
 /* bloclOList */
 #bloclOList { width: 95%; }
