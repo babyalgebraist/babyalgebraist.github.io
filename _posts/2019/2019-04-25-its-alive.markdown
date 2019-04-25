@@ -1,0 +1,25 @@
+---
+layout: post
+title: It's Alive!
+date: '2019-04-25 17:07'
+---
+
+<link href="{{ "/assets/css/style.css" | relative_url }}" rel="stylesheet">
+
+<div id="blockOList">
+<h1> Hey, Ma! Look at What I made! </h1>
+<hr />
+This site, is my first foray into... uh well, a few things really. Let's see:
+  <ol>
+    <li>GitHub Pages for a user or organisation</li>
+    <li>Installing and configuring Jekyll for blogging and statis site building.</li>
+    <li>Gitting it up with the two of the above to practice version control, branch maintenance for different purposes (master, feature-dev, drafts).  I'm hoping that this structure will serve me well and let me practice some rebasing and other stuff.</li>
+  </ol>
+
+    <p>This is also the first time that I've done anything worth pushing to the remote!</p>
+
+    <p>The next post will be an outline of the process that got me here so I can repeat it, if necessary, and make it automated in the future. I will simulpost on Medium as well.</p>
+
+    <p>Thanks for reading. Be good. Be kind. Peace.
+
+</div>
