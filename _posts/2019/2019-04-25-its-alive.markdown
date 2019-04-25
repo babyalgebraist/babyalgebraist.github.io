@@ -20,6 +20,6 @@ This site, is my first foray into... uh well, a few things really. Let's see:
 
     <p>The next post will be an outline of the process that got me here so I can repeat it, if necessary, and make it automated in the future. I will simulpost on Medium as well.</p>
 
-    <p>Thanks for reading. Be good. Be kind. Peace.
+    <p>Thanks for reading. Be good. Be kind. Peace.</p>
 
 </div>
