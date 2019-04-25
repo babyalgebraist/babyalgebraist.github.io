@@ -5,7 +5,9 @@
 summary {
   font-style: normal;
   font-weight: bold;
-  background-color: #44bfb7;
+  // colors the bg of the summary block
+  color: white;
+  background-color: #339999;
   padding-left: 8px;
   margin-bottom: 8px;
   border-radius: 3px
@@ -20,15 +22,21 @@ h4 + h4 {
 
 /* bloclOList */
 #bloclOList { width: 95%; }
-#bloclOList ol { font-style:italic; font-size: 24px; color: black; margin-bottom: 10px;}
+// colors the numbers in the column
+#bloclOList ol { font-style:italic; font-size: 24px; color: #993333; margin-bottom: 10px;}
+// colours the border
 #bloclOList ol li {border-left: 4px solid #6a6a6a; }
-#bloclOList ol li p { color: black;  padding: 8px 0 0 8px ; font-size: 18px;  }
-#bloclOList ol li p em {  color: #44bfb7; font-style: normal; }
+// colours the text after the emphasized text
+#bloclOList ol li p { color: #6a6a6a;  padding: 8px 0 0 8px ; font-size: 18px;  }
+//  colours the emphasized text
+#bloclOList ol li p em {  color: #993333; font-style: normal; }
 
 
 /*
 Colourt I like
-
+993333 rustyredish
+339999 lightforestgreen-ish
+006699 blueygreen
 	#990033
   #993333
   44bfb7
