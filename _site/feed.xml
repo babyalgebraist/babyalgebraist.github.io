@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-04-25T17:51:10-04:00</updated><id>/feed.xml</id><title type="html">Josh Fiddler</title><subtitle>This site will host the various project reports, tutorials, and research that I am working on.  See the &quot;About this Page&quot; link</subtitle><entry><title type="html">It’s Alive!</title><link href="/2019/04/25/its-alive.html" rel="alternate" type="text/html" title="It's Alive!" /><published>2019-04-25T17:07:00-04:00</published><updated>2019-04-25T17:07:00-04:00</updated><id>/2019/04/25/its-alive</id><content type="html" xml:base="/2019/04/25/its-alive.html">&lt;link href=&quot;/assets/css/style.css&quot; rel=&quot;stylesheet&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-04-27T14:47:55-04:00</updated><id>/feed.xml</id><title type="html">Josh Fiddler</title><subtitle>This site will host the various project reports, tutorials, and research that I am working on.  See the &quot;About this Page&quot; link</subtitle><entry><title type="html">It’s Alive!</title><link href="/2019/04/25/its-alive.html" rel="alternate" type="text/html" title="It's Alive!" /><published>2019-04-25T17:07:00-04:00</published><updated>2019-04-25T17:07:00-04:00</updated><id>/2019/04/25/its-alive</id><content type="html" xml:base="/2019/04/25/its-alive.html">&lt;link href=&quot;/assets/css/style.css&quot; rel=&quot;stylesheet&quot; /&gt;
 
 &lt;div id=&quot;blockOList&quot;&gt;
 &lt;h1&gt; Hey, Ma! Look at What I made! &lt;/h1&gt;
 &lt;hr /&gt;
-This site, is my first foray into... uh well, a few things really. Let's see:
+&lt;p&gt;This site, is my first foray into... uh well, a few things really. Let's see:&lt;/p&gt;
   &lt;ol&gt;
     &lt;li&gt;GitHub Pages for a user or organisation&lt;/li&gt;
-    &lt;li&gt;Installing and configuring Jekyll for blogging and statis site building.&lt;/li&gt;
-    &lt;li&gt;Gitting it up with the two of the above to practice version control, branch maintenance for different purposes (master, feature-dev, drafts).  I'm hoping that this structure will serve me well and let me practice some rebasing and other stuff.&lt;/li&gt;
+    &lt;li&gt;Installing and configuring Jekyll for blogging and static site building.&lt;/li&gt;
+    &lt;li&gt;Gitting it up with the two of the above to practice version control, branch maintenance for different purposes (master, feature-dev, drafts).  I'm hoping that this structure will serve me well and let me practice some rebasing and other useful versioning flows.&lt;/li&gt;
   &lt;/ol&gt;
 
     &lt;p&gt;This is also the first time that I've done anything worth pushing to the remote!&lt;/p&gt;

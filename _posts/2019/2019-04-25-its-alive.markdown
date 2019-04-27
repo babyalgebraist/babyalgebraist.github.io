@@ -9,11 +9,11 @@ date: '2019-04-25 17:07'
 <div id="blockOList">
 <h1> Hey, Ma! Look at What I made! </h1>
 <hr />
-This site, is my first foray into... uh well, a few things really. Let's see:
+<p>This site, is my first foray into... uh well, a few things really. Let's see:</p>
   <ol>
     <li>GitHub Pages for a user or organisation</li>
-    <li>Installing and configuring Jekyll for blogging and statis site building.</li>
-    <li>Gitting it up with the two of the above to practice version control, branch maintenance for different purposes (master, feature-dev, drafts).  I'm hoping that this structure will serve me well and let me practice some rebasing and other stuff.</li>
+    <li>Installing and configuring Jekyll for blogging and static site building.</li>
+    <li>Gitting it up with the two of the above to practice version control, branch maintenance for different purposes (master, feature-dev, drafts).  I'm hoping that this structure will serve me well and let me practice some rebasing and other useful versioning flows.</li>
   </ol>
 
     <p>This is also the first time that I've done anything worth pushing to the remote!</p>

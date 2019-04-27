@@ -8,29 +8,29 @@ permalink: /history/
 
 <link href="{{ "/assets/css/style.css" | relative_url }}" rel="stylesheet">
 
-<div role="main">
-<div style="width: 95%">
-<hr />
-  <p> Never one to be idle, here is a list of what I've been up to while I 'skill up' on the road to changing careers.</p>
-  <p>
-    With the formal education out of the way, here is a list of the online courses I've been working on since graduation, followed by some of the languages I am noodling around with in these courses. (I know, I know: "Where's the proof!?" It's coming. Soon.  Had to make the website first.)
-  </p>
-  <p>
-    Beyond that, what I'm currently using as reference and 'light' reading.  I hope to put up some reviews at which time those will be linked here.
-  </p>
-  <p>
-    Finally, I list a couple of the big things that have happened to me, which might show I'm human. :-)
-  </p>
-  <p>
-    If you notice any typos, please let me know! jf
-  </p>
-  <hr />
+<div>
+  <div>
 
-  <h3>Personal History</h3>
+    <p> Never one to be idle, here is a list of what I've been up to while I 'skill up' on the road to changing careers.</p>
+    <p>
+      With the formal education out of the way, here is a list of the online courses I've been working on since graduation, followed by some of the languages I am noodling around with in these courses. (I know, I know: "Where's the proof!?" It's coming. Soon.  Had to make the website first.)
+    </p>
+    <p>
+      Beyond that, what I'm currently using as reference and 'light' reading.  I hope to put up some reviews at which time those will be linked here.
+    </p>
+    <p>
+      Finally, I list a couple of the big things that have happened to me, which might show I'm human. :-)
+    </p>
+    <p>
+      If you notice any typos, please let me know! jf
+    </p>
+
   </div>
 
+  <h3>Personal History</h3>
   <!-- 'Education' List -->
   <div id="bloclOList">
+
     <details>
     <summary>
       Education
@@ -262,7 +262,7 @@ permalink: /history/
                 Humanistic Studies: The History and Philosphy of Science
               </h4>
               <p>
-                After an exposure to Arthur Koestler's <cite><a href="https://en.wikipedia.org/wiki/The_Sleepwalkers_(Koestler_book)">The Sleepwalkers</a></cite> in a History of Science class, I made the decision to change programs and take a deep dive into the process that is the Scientific Method.  In this work, I compared the ways in which popular culture views the purpose of endeavours like scientific research or religious scholarship through the lense of 'salvation'.
+                After an exposure to Arthur Koestler's <cite><a href="https://en.wikipedia.org/wiki/The_Sleepwalkers_(Koestler_book)">The Sleepwalkers</a></cite> in a History of Science class, I made the decision to change programs and take a deep dive into the process that is the Scientific Method.  In this work, I compared the ways in which popular culture views knowledge: "discovered" versus "revealed". In other words: scientific research versus religious scholarship. I compared them through the lens of "human salvation".
               </p>
         </li>
       </ul>

@@ -201,6 +201,11 @@ a { color: #006699; }
 
 a:visited { color: #993333; }
 
+/* Mark End of Section */
+.user-content { display: block; width: 95%; border: 0; border-top: 2px solid #993333; margin: 0; padding: 0.5em 0 0.5em 0; }
+
+/* For hidable sections: style the Summary a
+as a clickable bar */
 summary { font-style: normal; font-weight: bold; color: white; background-color: #339999; padding-left: 8px; margin-bottom: 8px; border-radius: 3px; }
 
 hr { display: block; height: 1px; border: 0; border-top: 2px solid #993333; margin: 0; padding: 0.5em 0 0.5em 0; }
