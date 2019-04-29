@@ -1,93 +1,99 @@
 ---
 ---
 @import "{{ site.theme }}";
-h1, h2, h3, h4, h5 {
-  color: #990033;
+#bloclOList {
+width:95%
+}
+
+#bloclOList ol {
+font-style:italic;
+font-size:24px;
+color:#933;
+margin-bottom:10px
+}
+
+#bloclOList ol li {
+border-left:4px solid #6a6a6a
+}
+
+#bloclOList ol li p {
+color:#6a6a6a;
+padding:8px 0 0 8px;
+font-size:18px
+}
+
+#bloclOList ol li p em {
+color:#933;
+font-style:normal
+}
+
+.background {
+background-color:#3CC
+}
+
+.site-header {
+background-color:#399
+}
+
+.user-content {
+display:block;
+width:95%;
+border:2px solid #933;
+margin:0;
+padding:.5em 0
 }
 
 a {
-  color: #006699;
+color:#069
 }
+
 a:visited {
-  color: #993333;
+color:#933
 }
 
-
-/* Mark End of Section */
-.user-content {
-    display: block;
-    width: 95%;
-    border: 0;
-    border-top: 2px solid #993333;
-    margin:  0;
-    padding: 0.5em 0 0.5em 0;
+h1,h2,h3,h4,h5 {
+color:#903
 }
-// li {
-//   margin-top: 10px;
-//   margin-bottom: 30px;
-// }
 
-
-/* For hidable sections: style the Summary a
-as a clickable bar */
-summary {
-  font-style: normal;
-  font-weight: bold;
-  // colors the bg of the summary block
-  color: white;
-  background-color: #339999;
-  padding-left: 8px;
-  margin-bottom: 8px;
-  border-radius: 3px
+h4 + h4 {
+font-size:95%;
+font-style:italic;
+margin-top:-1em
 }
 
 hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 2px solid #993333;
-    margin:  0;
-    padding: 0.5em 0 0.5em 0;
+display:block;
+height:1px;
+border:0;
+border-top:2px solid #933;
+margin:0;
+padding:.5em 0
+}
+
+summary {
+color: #fff;
+font-style:normal;
+font-weight:700;
+background-color:#399;
+padding-left:8px;
+margin-bottom:8px;
+border-radius:3px
 }
 
 summary p {
-  padding-left: 20px;
-  font-weight: normal;
-  font-style: italic;
+padding-left:20px;
+font-weight:400;
+font-style:italic
 }
 
-/*  for back-to-back headings that
-    act ast sub-headings h5 too small */
-h4 + h4 {
-  font-size: 95%;
-  font-style: italic;
-  margin-top: -1em;
-}
+/* Colours:
+  #993333 rustyredish
+  #339999 lightforestgreen-ish
+  #33CCCC LightTeal
 
-/* bloclOList */
-#bloclOList { width: 95%; }
-// colors the numbers in the column
-#bloclOList ol { font-style:italic; font-size: 24px; color: #993333; margin-bottom: 10px;}
-// colours the border
-#bloclOList ol li {border-left: 4px solid #6a6a6a; }
-// colours the text after the emphasized text
-#bloclOList ol li p { color: #6a6a6a;  padding: 8px 0 0 8px ; font-size: 18px;  }
-//  colours the emphasized text
-#bloclOList ol li p em {  color: #993333; font-style: normal; }
+  #006699 blueygreen
+  #6a6a6a Dark Gray
+  #990033
+  #44bfb7
 
-
-/*
-Colourt I like
-993333 rustyredish
-339999 lightforestgreen-ish
-006699 blueygreen
-	#990033
-  #993333
-  44bfb7
-  6a6a6a
 */
-
-/* Hacking the Theme */
-.site-header {
-  background-color: #339999;
-}
