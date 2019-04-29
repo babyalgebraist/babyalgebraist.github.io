@@ -1,5 +1,4 @@
 
 .DS_Store
 **/*.ipynb
-_drafts/2016
-_drafts
+**/_drafts
