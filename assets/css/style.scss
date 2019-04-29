@@ -1,38 +1,40 @@
 ---
 ---
 @import "{{ site.theme }}";
+
+/* Customizing Default Theme */
 #bloclOList {
-width:95%
+width:95%;
 }
 
 #bloclOList ol {
 font-style:italic;
 font-size:24px;
 color:#933;
-margin-bottom:10px
+margin-bottom:10px;
 }
 
 #bloclOList ol li {
-border-left:4px solid #6a6a6a
+border-left:4px solid #6a6a6a;
 }
 
 #bloclOList ol li p {
 color:#6a6a6a;
 padding:8px 0 0 8px;
-font-size:18px
+font-size:18px;
 }
 
 #bloclOList ol li p em {
 color:#933;
-font-style:normal
+font-style:normal;
 }
 
 .background {
-background-color:#3CC
+background-color:#3CC;
 }
 
 .site-header {
-background-color:#399
+background-color:#399;
 }
 
 .user-content {
@@ -40,7 +42,7 @@ display:block;
 width:95%;
 border:2px solid #933;
 margin:0;
-padding:.5em 0
+padding:.5em 0;
 }
 
 a {
@@ -52,13 +54,13 @@ color:#933
 }
 
 h1,h2,h3,h4,h5 {
-color:#903
+color:#903;
 }
 
 h4 + h4 {
 font-size:95%;
 font-style:italic;
-margin-top:-1em
+margin-top:-1em;
 }
 
 hr {
@@ -67,7 +69,7 @@ height:1px;
 border:0;
 border-top:2px solid #933;
 margin:0;
-padding:.5em 0
+padding:.5em 0;
 }
 
 summary {
@@ -77,13 +79,13 @@ font-weight:700;
 background-color:#399;
 padding-left:8px;
 margin-bottom:8px;
-border-radius:3px
+border-radius:3px;
 }
 
 summary p {
 padding-left:20px;
 font-weight:400;
-font-style:italic
+font-style:italic;
 }
 
 /* Colours:
